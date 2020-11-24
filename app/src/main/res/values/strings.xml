@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">GranaPizza</string>
+    <string name="Letrero_Granapizza">TODO</string>
+    <string name="img_logo_granapizza">TODO</string>
+    <string name="button_main_ir_registro">Button</string>
 </resources>
